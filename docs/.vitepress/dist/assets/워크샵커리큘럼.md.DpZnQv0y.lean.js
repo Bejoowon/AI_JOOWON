@@ -1,0 +1,1 @@
+import{_ as a,o as r,c as d,ag as e}from"./chunks/framework.ePeAWSvT.js";const b=JSON.parse('{"title":"워크샵 커리큘럼","description":"","frontmatter":{},"headers":[],"relativePath":"워크샵커리큘럼.md","filePath":"워크샵커리큘럼.md"}'),o={name:"워크샵커리큘럼.md"};function s(h,t,n,l,i,c){return r(),d("div",null,[...t[0]||(t[0]=[e("",36)])])}const g=a(o,[["render",s]]);export{b as __pageData,g as default};

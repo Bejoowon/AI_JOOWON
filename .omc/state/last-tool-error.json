@@ -1,0 +1,7 @@
+{
+  "tool_name": "Read",
+  "tool_input_preview": "{\"file_path\":\"/Users/choonghoochoi/.claude/projects/-Users-choonghoochoi-Library-CloudStorage-OneDrive----99-obsidian-choiGPT-01-Actions-AI-JOOWON/memory/MEMORY.md\"}",
+  "error": "File does not exist. Note: your current working directory is /Users/choonghoochoi/Library/CloudStorage/OneDrive-개인/99_obsidian/choiGPT/01.Actions/AI_JOOWON/01.SITE.",
+  "timestamp": "2026-02-25T17:46:34.228Z",
+  "retry_count": 1
+}
