@@ -20,7 +20,7 @@
 
 > 💡 Light Modern은 VS Code에 기본 내장되어 있어 별도 설치가 필요 없습니다.
 
-![](./attachments/Pasted image 20260303013812.png)
+![](/attachments/Pasted image 20260303013812.png)
 
 ---
 
@@ -35,7 +35,7 @@
 
 > 💡 **강력 추천!** 자동저장을 켜두면 저장 버튼을 누르지 않아도 파일이 자동으로 저장됩니다.
 
-![](./attachments/Pasted image 20260303013930.png)
+![](/attachments/Pasted image 20260303013930.png)
 
 ---
 
@@ -51,14 +51,14 @@
 
 > 💡 영어 메뉴가 편하신 분은 건너뛰셔도 됩니다.
 
-![](./attachments/Pasted image 20260303014147.png)
+![](/attachments/Pasted image 20260303014147.png)
 
 ---
 
 ## 4\. Markdown 파일을 항상 프리뷰로 보기
 
 학습 자료가 Markdown(`.md`) 파일로 되어 있습니다. 코드처럼 보이는 원본 대신 **깔끔한 프리뷰** 로 볼 수 있도록 기본 설정을 바꿔봅시다.
-![](./attachments/Pasted image 20260303014231.png)
+![](/attachments/Pasted image 20260303014231.png)
 사람보기 힘든 md 문서 원본
 
 ### .md 파일의 기본 편집기를 프리뷰로 설정하기
@@ -67,8 +67,8 @@
 2. **연결 프로그램...** (영어: **Open With...**) 클릭
 3. **'\*.md'에 대한 기본 편집기 구성...** 클릭
 4. **Markdown Preview 기본값** 선택
-![](./attachments/Pasted image 20260303014316.png)
-![](./attachments/Pasted image 20260303014429.png)
+![](/attachments/Pasted image 20260303014316.png)
+![](/attachments/Pasted image 20260303014429.png)
 
 이제 `.md` 파일을 클릭하면 **항상 프리뷰로 열립니다**.
 
@@ -88,7 +88,7 @@ VS Code는 **폴더 단위** 로 작업합니다.
 
 > 💡 **중요**: 파일 하나만 열지 말고 반드시 **프로젝트 폴더** 를 열어야 Claude Code가 프로젝트 전체를 이해하고 제대로 동작합니다.
 
-![](./attachments/Pasted image 20260303014509.png)
+![](/attachments/Pasted image 20260303014509.png)
 
 
 ---
@@ -102,7 +102,7 @@ VS Code는 **폴더 단위** 로 작업합니다.
 - 폴더/파일 삭제하기
 - 등등
 
-![](./attachments/Pasted image 20260303010130.png)
+![](/attachments/Pasted image 20260303010130.png)
 
 ---
 
@@ -117,7 +117,7 @@ VS Code에서 보이는 파일이 실제로 내 컴퓨터 어디에 저장되어
 
 > 💡 폴더도 같은 방법으로 우클릭하면 해당 폴더 위치를 Finder에서 바로 열 수 있습니다.
 
-![](./attachments/Pasted image 20260303010139.png)
+![](/attachments/Pasted image 20260303010139.png)
 
 ---
 
@@ -132,7 +132,7 @@ Claude Code CLI를 사용하려면 터미널이 필요합니다.
 
 터미널이 **화면 아래쪽** 에 가로로 길게 생깁니다. 코드와 터미널을 나란히 보고 싶다면, 터미널 탭의 **zsh** 글자를 잡고 **오른쪽 패널 쪽으로 드래그** 해서 위치를 옮기세요.
 
-![](./attachments/Pasted image 20260303010154.png) ![](./attachments/Pasted image 20260303014704.png) 
+![](/attachments/Pasted image 20260303010154.png) ![](/attachments/Pasted image 20260303014704.png) 
 
 ### 방법 2. 파일탭 옆에서 우클릭으로 열기 (추천)
 
@@ -141,7 +141,7 @@ Claude Code CLI를 사용하려면 터미널이 필요합니다.
 
 터미널이 바로 **위쪽 패널** 에 열려서 코드와 나란히 볼 수 있습니다.
 
-![](./attachments/Pasted image 20260303014715.png) ![](./attachments/Pasted image 20260303014730.png) ![](./attachments/Pasted image 20260303014750.png)
+![](/attachments/Pasted image 20260303014715.png) ![](/attachments/Pasted image 20260303014730.png) ![](/attachments/Pasted image 20260303014750.png)
 
 ---
 
